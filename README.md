@@ -26,7 +26,7 @@ Usage
 
 Run the GUI:
 
-python3 gui.py
+python3 gui_improved.py
 
 
 Click Record & Predict and make a sound (clap, whistle, or any other sound).
